@@ -1,0 +1,10 @@
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe.config
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.pdb
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.Form1.resources
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.Properties.Resources.resources
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.exe
+D:\Belgeler\Projeler\Ntp_Dersleri\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.pdb
